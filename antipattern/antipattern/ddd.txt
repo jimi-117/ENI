@@ -1,0 +1,19 @@
+=== Rapport commandes BadShop ===
+
+Commande: 73a0edb0
+Client: Alice
+  - Console GX x1 => 299,99 €
+  - Jeu: Space Battles x2 => 99,98 €
+Sous-total : 399,97 €
+Remise : 20,00 €
+TVA : 79,99 €
+Total : 459,96 €
+
+Commande: a6a564fa
+Client: rr
+  - Console GX x5 => 1499,95 €
+Sous-total : 1499,95 €
+Remise : 20,00 €
+TVA : 299,99 €
+Total : 1779,94 €
+
