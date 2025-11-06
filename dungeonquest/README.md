@@ -13,15 +13,15 @@ Explore into this barrow made by 5 rooms and to get Golden Dragon Crow.
 
 <pre>
  dungeonquest
-    ├── README.md
-    ├── game
+    ├── README.mdq
+    ├── game                # Game logics
     │   ├── dungeon.go
     │   ├── engine.go
     │   ├── factory.go
     │   └── player.go
     ├── go.mod
-    ├── main.go
-    └── objects
+    ├── main.go             # Entry point
+    └── objects             # Domaine objects to generate (Targets of factory and clone(prototype))
         └── objets.go
 </pre>
 
@@ -31,7 +31,7 @@ Explore into this barrow made by 5 rooms and to get Golden Dragon Crow.
 │   go.mod
 │   README.md
 │
-├───cmd                          # <strong>Application layer</strong>
+├───cmd                          # <strong>Application layer</strong> 
 │       main.go                  # Entry point
 │
 └───internal                     # <strong>Internal packages</strong>
